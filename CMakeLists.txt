@@ -6,6 +6,10 @@ project(WASTUDIO)
 set(GLUTEN_LIBS GLEW GL glut GLU)
 set(WAVEFRONT_LIBS GLEW GL)
 
+if(MSVC)
+  set(DIRENT_SRC ${PROJECT_SOURCE_DIR}/contrib/windows/msvc/dirent/src/dirent.c)
+endif()
+
 if(WIN32)
   set(GLUTEN_LIBS glew32 opengl32 glu32 freeglut)
   set(WAVEFRONT_LIBS glew32 opengl32)
@@ -78,6 +82,7 @@ add_library(gluten
   src/gluten/MessageBox.cpp
   src/gluten/TextBox.cpp
   src/gluten/lodepng.cpp
+  ${DIRENT_SRC}
 )
 
 target_link_libraries(gluten ${GLUTEN_LIBS})
