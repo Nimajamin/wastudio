@@ -1,0 +1,106 @@
+n WalkBack
+f
+t LeftLowerLeg 0 0.11 -0.93 57 5 0
+t LeftUpperLeg 0 0 -0.23 21 2 0
+t RightLowerLeg 0 0.26 0.9 -37 0 0
+t RightUpperLeg 0 0 0.27 -37 -3 0
+f
+t LeftLowerLeg 0.0025 0.07125 -0.79125 47.375 5.125 0
+t LeftUpperLeg 0 -0.00125 -0.20125 18.375 1.75 0
+t RightLowerLeg 0 0.2275 0.73625 -27.125 0 0
+t RightUpperLeg -0.00125 0 0.23625 -32.375 -2.625 0
+f
+t LeftLowerLeg 0.005 0.0325 -0.6525 37.75 5.25 0
+t LeftUpperLeg 0 -0.0025 -0.1725 15.75 1.5 0
+t RightLowerLeg 0 0.195 0.5725 -17.25 0 0
+t RightUpperLeg -0.0025 0 0.2025 -27.75 -2.25 0
+f
+t LeftLowerLeg 0.0075 -0.00625 -0.51375 28.125 5.375 0
+t LeftUpperLeg 0 -0.00375 -0.14375 13.125 1.25 0
+t RightLowerLeg 0 0.1625 0.40875 -7.375 0 0
+t RightUpperLeg -0.00375 0 0.16875 -23.125 -1.875 0
+f
+t LeftLowerLeg 0.01 -0.045 -0.375 18.5 5.5 0
+t LeftUpperLeg 0 -0.005 -0.115 10.5 1 0
+t RightLowerLeg 0 0.13 0.245 2.5 0 0
+t RightUpperLeg -0.005 0 0.135 -18.5 -1.5 0
+f
+t LeftLowerLeg 0.0075 -0.03375 -0.28125 13.875 4.125 0
+t LeftUpperLeg 0 -0.00625 -0.08625 7.875 0.75 0
+t RightLowerLeg 0 0.0975 0.08125 12.375 0 0
+t RightUpperLeg -0.00625 0 0.10125 -13.875 -1.125 0
+f
+t LeftLowerLeg 0.005 -0.0225 -0.1875 9.25 2.75 0
+t LeftUpperLeg 0 -0.0075 -0.0575 5.25 0.5 0
+t RightLowerLeg 0 0.065 -0.0825001 22.25 0 0
+t RightUpperLeg -0.0075 0 0.0675 -9.25 -0.75 0
+f
+t LeftLowerLeg 0.0025 -0.01125 -0.09375 4.625 1.375 0
+t LeftUpperLeg 0 -0.00875 -0.02875 2.625 0.25 0
+t RightLowerLeg 0 0.0325 -0.24625 32.125 0 0
+t RightUpperLeg -0.00875 0 0.03375 -4.625 -0.375 0
+f
+t LeftLowerLeg 0 0 0 0 0 0
+t RightLowerLeg 0 0 -0.41 42 0 0
+t LeftUpperLeg 0 -0.01 0 0 0 0
+t RightUpperLeg -0.01 0 0 0 0 0
+f
+t LeftLowerLeg 0 0.0325 0.1575 -7.75 -2 0
+t RightLowerLeg 0.005 0.0225 -0.53 44.75 0.25 0
+t LeftUpperLeg 0 -0.0075 0.045 -7 -0.25 0
+t RightUpperLeg -0.0075 0 -0.0425 6 0 0
+f
+t LeftLowerLeg 0 0.065 0.315 -15.5 -4 0
+t RightLowerLeg 0.01 0.045 -0.65 47.5 0.5 0
+t LeftUpperLeg 0 -0.005 0.09 -14 -0.5 0
+t RightUpperLeg -0.005 0 -0.085 12 0 0
+f
+t LeftLowerLeg 0 0.0975 0.4725 -23.25 -6 0
+t RightLowerLeg 0.015 0.0675 -0.77 50.25 0.75 0
+t LeftUpperLeg 0 -0.0025 0.135 -21 -0.75 0
+t RightUpperLeg -0.0025 0 -0.1275 18 0 0
+f
+t LeftLowerLeg 0 0.13 0.63 -31 -8 0
+t RightLowerLeg 0.02 0.09 -0.89 53 1 0
+t RightUpperLeg 0 0 -0.17 24 0 0
+t LeftUpperLeg 0 0 0.18 -28 -1 0
+f
+t LeftLowerLeg -0.0025 0.09 0.49625 -20.625 -7.0625 0
+t RightLowerLeg 0.01875 0.071875 -0.721875 41.75 0.8125 0
+t RightUpperLeg 0 0 -0.1425 20.1875 -0.1875 0
+t LeftUpperLeg 0 0 0.154375 -24.9375 -0.8125 0
+f
+t LeftLowerLeg -0.005 0.05 0.3625 -10.25 -6.125 0
+t RightLowerLeg 0.0175 0.05375 -0.55375 30.5 0.625 0
+t RightUpperLeg 0 0 -0.115 16.375 -0.375 0
+t LeftUpperLeg 0 0 0.12875 -21.875 -0.625 0
+f
+t LeftLowerLeg -0.0075 0.01 0.22875 0.125 -5.1875 0
+t RightLowerLeg 0.01625 0.035625 -0.385625 19.25 0.4375 0
+t RightUpperLeg 0 0 -0.0875 12.5625 -0.5625 0
+t LeftUpperLeg 0 0 0.103125 -18.8125 -0.4375 0
+f
+t LeftLowerLeg -0.01 -0.03 0.0949999 10.5 -4.25 0
+t RightLowerLeg 0.015 0.0175 -0.2175 8 0.25 0
+t RightUpperLeg 0 0 -0.06 8.75 -0.75 0
+t LeftUpperLeg 0 0 0.0775 -15.75 -0.25 0
+f
+t LeftLowerLeg -0.005 0 -0.1025 22.25 -2.375 0
+t RightLowerLeg 0.0125 0.03125 -0.05125 2.5 0.875 0
+t RightUpperLeg 0 0 -0.005 1.125 -1.125 0
+t LeftUpperLeg 0 0 0.02625 -9.625 0.125 0
+f
+t LeftLowerLeg 0 0.03 -0.3 34 -0.5 0
+t RightLowerLeg 0.01 0.045 0.115 -3 1.5 0
+t RightUpperLeg 0 0 0.05 -6.5 -1.5 0
+t LeftUpperLeg 0 0 -0.025 -3.5 0.5 0
+f
+t LeftLowerLeg 0 0.05 -0.4575 39.75 0.875 0
+t RightLowerLeg 0.0075 0.09875 0.31125 -11.5 1.125 0
+t RightUpperLeg 0 0 0.105 -14.125 -1.875 0
+t LeftUpperLeg 0 0 -0.07625 2.625 0.875 0
+f
+t LeftLowerLeg 0 0.07 -0.615 45.5 2.25 0
+t RightLowerLeg 0.005 0.1525 0.5075 -20 0.75 0
+t RightUpperLeg 0 0 0.16 -21.75 -2.25 0
+t LeftUpperLeg 0 0 -0.1275 8.75 1.25 0

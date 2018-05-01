@@ -1,0 +1,71 @@
+n Fall
+f
+t LeftUpperLeg 0.01 0.04 0.21 -35 0 0
+t LeftLowerLeg 0.02 0.09 0.18 32 6 0
+t RightLowerLeg 0 0.06 0.06 35 3 0
+t RightUpperLeg 0 0 0.19 -31 0 0
+f
+t LeftUpperLeg 0.01 0.04 0.1725 -30.5 -0.25 0
+t LeftLowerLeg 0.0225 0.0775 0.10625 32 6 0
+t RightLowerLeg 0 0.06 0.02125 35 3 0
+t RightUpperLeg 0 0 0.175 -27.375 -0.25 0
+f
+t LeftUpperLeg 0.01 0.04 0.135 -26 -0.5 0
+t LeftLowerLeg 0.025 0.065 0.0324999 32 6 0
+t RightLowerLeg 0 0.06 -0.0175 35 3 0
+t RightUpperLeg 0 0 0.16 -23.75 -0.5 0
+f
+t LeftUpperLeg 0.01 0.04 0.0975 -21.5 -0.75 0
+t LeftLowerLeg 0.0275 0.0525 -0.0412501 32 6 0
+t RightLowerLeg 0 0.06 -0.05625 35 3 0
+t RightUpperLeg 0 0 0.145 -20.125 -0.75 0
+f
+t LeftUpperLeg 0.01 0.04 0.06 -17 -1 0
+t LeftLowerLeg 0.03 0.04 -0.115 32 6 0
+t RightLowerLeg 0 0.06 -0.095 35 3 0
+t RightUpperLeg 0 0 0.13 -16.5 -1 0
+f
+t LeftUpperLeg 0.01 0.04 0.0225 -12.5 -1.25 0
+t LeftLowerLeg 0.0325 0.0275 -0.18875 32 6 0
+t RightLowerLeg 0 0.06 -0.13375 35 3 0
+t RightUpperLeg 0 0 0.115 -12.875 -1.25 0
+f
+t LeftUpperLeg 0.01 0.04 -0.015 -8 -1.5 0
+t LeftLowerLeg 0.035 0.015 -0.2625 32 6 0
+t RightLowerLeg 0 0.06 -0.1725 35 3 0
+t RightUpperLeg 0 0 0.1 -9.25 -1.5 0
+f
+t LeftUpperLeg 0.01 0.04 -0.0525 -3.5 -1.75 0
+t LeftLowerLeg 0.0375 0.0025 -0.33625 32 6 0
+t RightLowerLeg 0 0.06 -0.21125 35 3 0
+t RightUpperLeg 0 0 0.085 -5.625 -1.75 0
+f
+t LeftUpperLeg 0.01 0.04 -0.09 1 -2 0
+t LeftLowerLeg 0.04 -0.01 -0.41 32 6 0
+t RightLowerLeg 0 0.06 -0.25 35 3 0
+t RightUpperLeg 0 0 0.07 -2 -2 0
+f
+t LeftUpperLeg 0.01 0.04 -0.0525 -3.5 -1.75 0
+t LeftLowerLeg 0.0375 0.0025 -0.33625 32 6 0
+t RightLowerLeg 0 0.06 -0.21125 35 3 0
+t RightUpperLeg 0 0 0.085 -5.625 -1.75 0
+f
+t LeftUpperLeg 0.01 0.04 -0.015 -8 -1.5 0
+t LeftLowerLeg 0.035 0.015 -0.2625 32 6 0
+t RightLowerLeg 0 0.06 -0.1725 35 3 0
+t RightUpperLeg 0 0 0.1 -9.25 -1.5 0
+f
+t LeftUpperLeg 0.01 0.04 0.0225 -12.5 -1.25 0
+t LeftLowerLeg 0.0325 0.0275 -0.18875 32 6 0
+t RightLowerLeg 0 0.06 -0.13375 35 3 0
+t RightUpperLeg 0 0 0.115 -12.875 -1.25 0
+f
+t LeftUpperLeg 0.01 0.04 0.06 -17 -1 0
+t LeftLowerLeg 0.03 0.04 -0.115 32 6 0
+t RightLowerLeg 0 0.06 -0.095 35 3 0
+t RightUpperLeg 0 0 0.13 -16.5 -1 0
+f
+t LeftUpperLeg 0.01 0.04 0.135 -26 -0.5 0
+t LeftLowerLeg 0.025 0.065 0.0324999 32 6 0
+t RightLowerLeg 0 0.06 -0.0175 35 3 0
+t RightUpperLeg 0 0 0.16 -23.75 -0.5 0

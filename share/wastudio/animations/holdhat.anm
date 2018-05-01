@@ -1,0 +1,9 @@
+n Default
+f
+f
+t LeftLowerArm -1.15 2.32 0 -104 -116 21
+t LeftUpperArm -0.13 0.48 0.25 -174 -119 -49
+f
+t LeftLowerArm -0.4 -0.36 0.45 3 -53 21
+t LeftUpperArm -0.0700001 -0.26 0.25 -91 0 -48
+t Hat 1.75 -4.12 1.52 47 -3 0
